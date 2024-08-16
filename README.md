@@ -21,6 +21,7 @@ Prompts.cfd is a treasure trove of creative prompts—short instructions that te
 1. Once you’re on the Prompts.cfd website, you’ll see a search bar at the top.
 2. **Type "logo" into the search bar** and hit Enter.
 3. A variety of logo-related prompts will appear on the screen. These prompts are the starting points for your logo creation journey.
+![](https://cfdprompts.github.io/logo_cdf.png)
 
 **Step 3: Choose a Logo Prompt You Like**
 
