@@ -105,3 +105,5 @@ The quality of your prompt can greatly affect the final design. The more detaile
 ### **Conclusion**
 
 Creating a logo doesn’t have to be difficult or expensive. With the help of Prompts.cfd and Ideogram.ai, you can design a professional-looking logo in no time, even if you’re a beginner. By following this guide, you now have the tools and knowledge to create a logo that truly represents your brand or project. So go ahead, unleash your creativity, and design something amazing!
+### Guides:
+- [Ultimate Guide to Using Ideogram AI for 5th Graders](https://medium.com/@PromptCFD101/ultimate-guide-to-using-ideogram-ai-for-5th-graders-acca68718d7b)
